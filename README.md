@@ -26,10 +26,10 @@
 
 - "Test" 저장소 만들기 (local->git)
   
-1. mkdir Test
-2. cd Test
-3. touch README.md
-4. git init
+1. mkdir Test (Test 폴더 생성)
+2. cd Test (Test 폴더로 이동)
+3. touch README.md (README.md 파일 생성)
+4. git init (git 저장소 생성)
 5. git remote add origin https://github.com/nachocatee/Test.git
 6. git add README.md
 7. git commit -m "README.md"
