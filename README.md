@@ -22,6 +22,8 @@
   7. git push origin main
   8. **완성!**
 
+---
+
 - "Test" 저장소 만들기 (local->git)
   
 1. mkdir Test
