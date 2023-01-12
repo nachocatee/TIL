@@ -7,7 +7,7 @@
 # GIT
   ![git](https://velog.velcdn.com/images/crosstar1228/post/969185d2-d80f-41cc-b234-f5fb71f1304e/image.png)
   
-  - github 만들기
+  - "Test" 저장소 만들기
   1. 현재 목록 확인하기 (요기서 cd ..같은 명령어 사용)
    
       *cd = change directory*
