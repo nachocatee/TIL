@@ -12,9 +12,9 @@
    
       *cd = change directory*
 
-  2. git clone https://github.com/nachocatee/Test.git 해서 클론 생성
+  2. git clone https://github.com/nachocatee/Test.git (클론 생성)
   3. cd Test (Test 폴더 생성)
-  4. touch README.md 해서 파일 생성
+  4. touch README.md (파일 생성)
   5. 편집 후 git add README.md
   6. git commit -m "README.md"
   7. git push origin main
