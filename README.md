@@ -9,6 +9,9 @@
   
   - github 만들기
   1. ls 해서 현재 목록 확인하기 (요기서 cd ..같은 명령어 사용)
+   
+      *cd = change directory*
+
   2. git clone https://github.com/nachocatee/Test.git 해서 클론 생성
   3. touch README.md 해서 파일 생성
   4. 편집 후 git add README.md
