@@ -1,6 +1,7 @@
 # Markdown
 - 텍스트 기반의 가벼운 마크업 언어
 - 문서의 구조와 내용을 같이 쉽고 빠르게 적고자 탄생
+[마크다운 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ---
 
