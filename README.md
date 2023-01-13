@@ -35,3 +35,13 @@
 7. git commit -m "README.md"
 8. git push origin main
 9. **완성!**
+
+---
+
+- github 편집하기
+
+1. git pull
+2. README.md 수정 후 저장
+3. git add README.md
+4. git commit -m "수정내용"
+5. git push origin main
