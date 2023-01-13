@@ -45,3 +45,9 @@
 3. git add README.md
 4. git commit -m "수정내용"
 5. git push origin main
+
+---
+
+- master를 main으로 바꾸기
+  
+  git branch -M main
