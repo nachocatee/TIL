@@ -26,6 +26,11 @@ def list_sum(list):
 
 print(list_sum([1, 2, 3, 4, 5]))
 
+# 요기서도 그냥
+# for i in list:
+#     result += i 하면 됨
+
+
 ### 문제3
 
 
