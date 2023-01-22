@@ -51,6 +51,9 @@ print(dict_list_sum([{'name': 'kim', 'age': 12}, {'name': 'lee', 'age': 4}]))
 # print(list[0]['age']) # 12
 # print(len(list)) # 2
 
+# for i in list:
+#     result += i['age'] 하면 됨
+
 
 ### 문제4
 
@@ -76,6 +79,10 @@ def all_list_sum(list):
 
 print(all_list_sum([[1], [2, 3], [4, 5, 6], [7, 8, 9, 10]]))
 
+# for i in list:
+#     for j in i:
+#         result += j # 이러케 하면 됨
+
 
 ### 문제5
 
@@ -95,6 +102,9 @@ print(get_secret_word([83, 115, 65, 102, 89]))
 # chr() 함수 -> 아스키 코드 값을 문자로 변환해 주는 함수
 # ord() 함수 -> 특정한 한 문자를 아스키 코드 값으로 변환해 주는 함수
 
+# for i in list:
+#     result += chr(i) # 이러케 하면 됨
+
 
 ### 문제6
 
@@ -108,6 +118,9 @@ def get_secret_number(word):
     return word_sum
 
 print(get_secret_number('happy'))
+
+# for i in word:
+#     word_sum += ord(i) # 이러케 하기
 
 
 
@@ -144,3 +157,8 @@ print(get_strong_word('z', 'a'))
 print(get_strong_word('delilah', 'dixon'))
 
 # 나는 다 쪼개서 했는데 정답처럼 그냥 for i in a 이렇게만 해도 답 나오는군..
+
+# for i in a:
+#     sum_a += ord(i)
+# for j in b:
+#     sum_b += ord(j) # 이러케 하기
